@@ -4,7 +4,7 @@ App that makes you do something to contribute to the UN sustainability goals
 
 ## The conditions of the application task
 
-The conditions that were presented in the application task has been tormenting my mind for some time. In a good way of course. Therefore, I have compiled all of my conclusions below and how I ended up with the product that is downloadable for anyone. 
+The conditions that were presented in the application task has been tormenting my mind for some time. In a good way of course. Therefore, I have compiled all of my conclusions below and how I ended up with the product that is downloadable for anyone. IF the presentation elapses the five minute limit, please skip __1. Cirkle of Influence__ and __Factfulness _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Rosling__ and move onto __3- Conclusion__ and __4. Product Presentation__.
 
 ## 1. Cirkle of Influence:
    * You can determine your cirkle of influence through have's and be's. For example, "If I had a life partner", "I will be happy when I have ..." is your cirkle of concern. "I can be more patient", "I can be more inclusive" determines your cirkle of influence. It is the character focus. Contradictory to what I first believed that it was more of what you know or are capable of rather than the characteristics you can change to expand your cirkle of influence. 
