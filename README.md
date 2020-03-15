@@ -2,7 +2,7 @@
 
 App that makes you do something to contribute to the UN sustainability goals
 
-## The conditions of the application task
+## The Conditions of the Application Task
 
 The conditions that were presented in the application task has been tormenting my mind for some time. In a good way of course. Therefore, I have compiled all of my conclusions below and how I ended up with the product that is downloadable for anyone. If the presentation elapses the five minute time limit, please skip __1. Circle of Influence__ and __2. Factfulness _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Rosling__ and move onto __3. Conclusion__ and __4. Product Presentation__.
 
