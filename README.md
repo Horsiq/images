@@ -28,17 +28,19 @@ The conditions that were presented in the application task has been tormenting m
 
 ## 3. Conclusions 
 
-As the last bullet point from Hans Roslings Factfulness says, “. . . Risks that we should worry about; global pandemic, financial collapse, world war and extreme poverty.” I believe that the risk that I could contribute to the most in regards of my circle of influence is climate change. 
+As the last bullet point from Hans Roslings _Factfulness_ says, “. . . Risks that we should worry about; global pandemic, financial collapse, world war and extreme poverty.” I believe that the risk that I could contribute to the most in regards of my circle of influence is climate change. 
 
 I have therefore decided to choose UNSDG number 13 Climate Action. 
 What are my “be’s”? How do I tackle this problem “inside-out”? What kind of “control” do I have? And what commitments can I make to myself?
 
-I need to change the method of my influence to tackle the problem inside-out by the following “be’s”:
+I need to change the method of my influence to tackle the problem "inside-out" by the following “be’s”:
 * I can be more resourceful 
 * I can be more climatically aware
 * I can be more helpful
 * I can be more educated about climate change
 * I can be more adaptable
 
-
+According to Hans Rosling, the biggest villain in terms of CO2 emissions are the richest group (Level 4) and that we cannot expect mid-income countries to stop their development so that we can continue to live invariably:
+  _In fact, do you know how much of all the fossil fuel burned each year is burned by the richest billion? More than half of it. Then the second richest billion burns half of what is left, and so on and so on, down to the poorest million, who are responsible for 1 percent._
+  _. . . we in the West seem to shift responsibility away from ourselves and onto others. We can say that “they” cannot live like us. The right way to say is, “We cannot live like us”._
 
