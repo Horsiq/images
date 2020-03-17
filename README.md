@@ -28,4 +28,17 @@ The conditions that were presented in the application task has been tormenting m
 
 ## 3. Conclusions 
 
+As the last bullet point from Hans Roslings Factfulness says, “. . . Risks that we should worry about; global pandemic, financial collapse, world war and extreme poverty.” I believe that the risk that I could contribute to the most in regards of my circle of influence is climate change. 
+
+I have therefore decided to choose UNSDG number 13 Climate Action. 
+What are my “be’s”? How do I tackle this problem “inside-out”? What kind of “control” do I have? And what commitments can I make to myself?
+
+I need to change the method of my influence to tackle the problem inside-out by the following “be’s”:
+* I can be more resourceful 
+* I can be more climatically aware
+* I can be more helpful
+* I can be more educated about climate change
+* I can be more adaptable
+
+
 
