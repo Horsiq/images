@@ -46,3 +46,6 @@ I need to change the method of my influence to tackle the problem "inside-out" b
 * I can be more educated about climate change
 * I can be more adaptable
 
+I have decided to commit myself to the UN ActNow Initiative. It is a campaign designed to call for individual action on climate change. 
+
+## 4. Product Presentation
