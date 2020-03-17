@@ -41,6 +41,8 @@ I need to change the method of my influence to tackle the problem "inside-out" b
 * I can be more adaptable
 
 According to Hans Rosling, the biggest villain in terms of CO2 emissions are the richest group (Level 4) and that we cannot expect mid-income countries to stop their development so that we can continue to live invariably:
-  _In fact, do you know how much of all the fossil fuel burned each year is burned by the richest billion? More than half of it. Then the second richest billion burns half of what is left, and so on and so on, down to the poorest million, who are responsible for 1 percent._
+ 
+ _In fact, do you know how much of all the fossil fuel burned each year is burned by the richest billion? More than half of it. Then the second richest billion burns half of what is left, and so on and so on, down to the poorest million, who are responsible for 1 percent._
+  
   _. . . we in the West seem to shift responsibility away from ourselves and onto others. We can say that “they” cannot live like us. The right way to say is, “We cannot live like us”._
 
