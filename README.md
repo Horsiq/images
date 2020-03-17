@@ -1,6 +1,6 @@
 # Application Task Hyper Island 2020
 
-App that makes you do something to contribute to the UN sustainability goals
+An application for your phone designed to help and keep track of individual action on climate change. It is a small step towards the achievement of the UN Sustainable Development Goal no. 13 Climate Action. 
 
 ## The Conditions of the Application Task
 
