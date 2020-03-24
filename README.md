@@ -53,6 +53,8 @@ To help myself and others implement ActNow into our everyday and to push ourselv
 
 ## 4. Product Presentation
 
-| Icon | Launcher | Start |
-|------|----------|-------|
-|<img id="icon" width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_Icon.png"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_launcher.png">| <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_startactivity.jpg">
+| Icon | Launcher | Start | Register |
+|------|----------|-------|----------|
+|<img id="icon" width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_Icon.png"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_launcher.png"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_startactivity.jpg"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_registeractivity.jpg"> |
+
+
