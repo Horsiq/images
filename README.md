@@ -53,4 +53,6 @@ To help myself and others implement ActNow into our everyday and to push ourselv
 
 ## 4. Product Presentation
 
-![launcher](https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_Icon.png "Icon ACTDAILY")
+<img align="left" width="100" height="200" src=[icon]>
+
+[icon]: https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_Icon.png "Icon ACTDAILY"
