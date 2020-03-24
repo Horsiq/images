@@ -52,3 +52,5 @@ The United Nations (UN) have a campaign called [ActNow](https://www.un.org/en/ac
 To help myself and others implement ActNow into our everyday and to push ourselves to commit to this initiative, I have developed an application called ACTDAILY which pushes you to register your climate actions each day. 
 
 ## 4. Product Presentation
+
+![launcher](C:\Users\Hans\Pictures\Screenshot_ACTDAILY_Icon.png "Icon ACTDAILY")
