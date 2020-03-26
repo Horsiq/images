@@ -3,7 +3,7 @@
 An application designed to encourage and keep track of individual action on climate change. It is a small and a necessary step towards the achievement of the UN Sustainable Development Goal no. 13 Climate Action. 
 
 ## Table of Contents:
-- [The Conditions of the Application Task]("#heading")
+- [The Conditions of the Application Task]("https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#1-circle-of-influence")
 
 ## The Conditions of the Application Task
 
