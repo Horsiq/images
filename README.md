@@ -68,4 +68,10 @@ To help myself and others implement ActNow into our everyday and to push ourselv
 |------|----------|-------|----------|
 |<img id="icon" width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_startactivity.jpg"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_infoactivity.jpg"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_infoitemActivity.jpg"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_registeractivity.jpg"> |
 
+| Notification | Notification |
+|--------------|--------------|
+|<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_not1.jpg">|<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_registeractivity.jpg">|
+
+
+
 
