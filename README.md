@@ -56,7 +56,7 @@ I have reached the conclusion that I need to change the method of my influence t
 
 The United Nations (UN) have a campaign called [ActNow](https://www.un.org/en/actnow/) that is designed to call for individual action on climate change. By commiting myself to the ActNow initiative, I am aligned with the method of my influence and also helping _us_ achieve UNSDG 13. Climate Action.
 
-To help myself and others implement ActNow into our everyday and to push ourselves to commit to this initiative, I have developed an application called ACTDAILY which pushes you to register your climate actions each day. 
+To help myself and others implement ActNow into our everyday and to push ourselves to commit to this initiative, I have developed an application called ACTDAILY which encourage you to register your climate actions each day. 
 
 ## 4. Product Presentation
 
