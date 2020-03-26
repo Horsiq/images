@@ -2,6 +2,9 @@
 
 An application designed to encourage and keep track of individual action on climate change. It is a small and a necessary step towards the achievement of the UN Sustainable Development Goal no. 13 Climate Action. 
 
+## Table of Contents:
+- [The Conditions of the Application Task]("#heading")
+
 ## The Conditions of the Application Task
 
 When the conditions were presented in the application task, I was at first a bit conflicted over the idea of applying with the given literatures theories. Therefore, I have compiled all of my conclusions below to give a more undemanding idea of how my application task resulted in the ACT application. If you are well fimiliar to the application task literatures, feel free to skip __1. Circle of Influence__ and __2. Factfulness _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Rosling__ and move onto __3. Conclusion__ and __4. Product Presentation__.
