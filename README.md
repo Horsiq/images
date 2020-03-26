@@ -36,7 +36,7 @@ According to Hans Rosling, the biggest villain in terms of CO2 emissions are the
   
 I have therefore decided to choose UNSDG number 13 Climate Action. 
 
-The next step is to determine your circle of influence through the conclusions from __1. Circle of Influence.  
+The next step is to determine your circle of influence through the conclusions from __1. Circle of Influence_.  
 
 What are your “be’s”? How do you tackle Climate Action “inside-out”? What kind of “control” do you have? And what commitments you I make to yourself?
 
