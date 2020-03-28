@@ -70,6 +70,8 @@ Follow the instructions below to build and run the project:
    Studio project` and select the project. Gradle will build the project.
 5. Run the app. Click `Run > Run 'app'`. After the project builds you'll be
    prompted to build or launch an emulator.
+   
+Upon launch the user will be presented with their current score and completed ACTs. They can choose to register new ACTs by clicking the button “ACT”. Then, by clicking on one or multiple items in the register activity, they can register their ACTs and the scores will be updated. 
 
 | Icon | Launcher | Start | Register |
 |------|----------|-------|----------|
