@@ -11,7 +11,7 @@ An application designed to encourage and keep track of individual action on clim
 
 ## The Conditions of the Application Task
 
-When the conditions were presented in the application task, I was at first a bit conflicted over the idea of applying with the given literatures theories. Therefore, I have compiled all of my conclusions below to give a more undemanding idea of how my application task resulted in the ACT application. If you are well fimiliar to the application task literatures, feel free to skip __1. Circle of Influence__ and __2. Factfulness _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Rosling__ and move onto __3. Conclusion__ and __4. Product Presentation__.
+When the conditions were presented in the application task, I was at first a bit conflicted over the idea of applying with the given literatures theories. Therefore, I have compiled all of my conclusions below to give a more undemanding idea of how my application task resulted in the ACT application. If you are well fimiliar to the application task literatures, feel free to skip __1. Circle of Influence__ and __2. Factfulness _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Rosling__ and move onto [__3. Conclusions__](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#3-conclusions) and [__4. Product Presentation__.](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#4-product-presentation)
 
 ## 1. Circle of Influence:
    * You can determine your circle of influence through have's and be's. For example, "If I had a life partner", "I will be happy when I have ..." is your circle of concern. "I can be more patient", "I can be more inclusive" determines your circle of influence. It is the character focus. Contradictory to what I first believed that it was more of what you know or are capable of rather than the characteristics you can change to expand your circle of influence. 
@@ -45,7 +45,7 @@ I have therefore decided to choose UNSDG number 13 Climate Action.
 
 The next step is to determine your circle of influence through the conclusions from __1. Circle of Influence__.  
 
-What are your “be’s”? How do you tackle Climate Action “inside-out”? What kind of “control” do you have? And what commitments you I make to yourself?
+What are your “be’s”? How do you tackle Climate Action “inside-out”? What kind of “control” do you have? And what commitments you make to yourself?
 
 I have reached the conclusion that I need to change the method of my influence to tackle the problem "inside-out" by the following “be’s”:
 * I can be more resourceful 
