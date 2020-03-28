@@ -60,6 +60,17 @@ To help myself and others implement ActNow into our everyday and to push ourselv
 
 ## 4. Product Presentation
 
+ACTDAILY is an open source Android app designed to help users keep track and score of their daily acts against climate change.
+
+Follow the instructions below to build and run the project:
+1. Clone this repository.
+2. Download the appropriate JDK
+3. [Install Android Studio](https://developer.android.com/sdk/index.html).
+4. Import the project. Open Android Studio, click `Open an existing Android
+   Studio project` and select the project. Gradle will build the project.
+5. Run the app. Click `Run > Run 'app'`. After the project builds you'll be
+   prompted to build or launch an emulator.
+
 | Icon | Launcher | Start | Register |
 |------|----------|-------|----------|
 |<img id="icon" width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_Icon.png"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_launcher.png"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_startactivity.jpg"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_registeractivity.jpg"> |
