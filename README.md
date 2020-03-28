@@ -83,6 +83,8 @@ From the start activity, if the user presses the information button in the top r
 |------|----------|-------|----------|
 |<img id="icon" width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_startactivity.jpg"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_infoactivity.jpg"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_infoitemActivity.jpg"> | <img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_registeractivity.jpg"> |
 
+A notification is set to be sent every 24th hour. In other words, the user will be notified each day to register they daily ACTs. 
+
 | Notification | Notification |
 |--------------|--------------|
 |<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_not1.jpg">|<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_not2.jpg">|
