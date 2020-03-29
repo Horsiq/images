@@ -107,6 +107,14 @@ In other words, the app will become more inclusive, social and widespread. Below
 
 ## 5. Bibliography
 
+Covey, Stephen R., and Jim Collins. _The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change._ Simon & Schuster, 2013
+
+Rosling, Hans, et al. _Factfulness: Ten Reasons Were Wrong about the World - and Why Things Are Better than You Think._ Sceptre, 2018.
+
+“ActNow Climate Action Campaign.” _United Nations_, United Nations, www.un.org/en/actnow/.
+
+“United Nations Sustainable Development.” _United Nations_, United Nations, www.un.org/sustainabledevelopment/.
+
 
 
 
