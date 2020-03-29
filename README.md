@@ -9,7 +9,7 @@ An application designed to encourage and keep track of individual action on clim
 - [3. Conclusions](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#3-conclusions)
 - [4. Product Presentation](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#4-product-presentation)
 - [4.1. Updates](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#41-updates)
-- [5. Bibliography]()
+- [5. Bibliography](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#5-bibliography)
 
 ## The Conditions of the Application Task
 
