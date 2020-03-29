@@ -89,6 +89,12 @@ A notification is set to be sent every 24th hour. In other words, the user will 
 |--------------|--------------|
 |<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_not1.jpg">|<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY_not2.jpg">|
 
+| Mockup |
+|--------|
+|<img width="190" height="400" src=""|
+
+
+
 
 
 
