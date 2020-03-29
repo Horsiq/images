@@ -104,6 +104,10 @@ In other words, the app will become more inclusive, social and widespread. Below
 |--------|
 |<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY%20MOCKUP.jpg">|
 
+## 5. Sources
+
+
+
 
 
 
