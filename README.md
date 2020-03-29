@@ -99,7 +99,7 @@ To encourage more engagement, encouragement and competitiveness, updates of the 
 - A chat forum 
 - The ability to send challenges on daily ACTs to friends
 - To share results on social media, email, SMS etc. 
-- All revenue collected from advertisement will go to [__Sustainable Development Goals Fund__](https://www.sdgfund.org/)
+- All revenue collected from advertisement will go to the [__Sustainable Development Goals Fund__](https://www.sdgfund.org/)
 
 In other words, the app will become more inclusive, social and widespread. Below is a screenshot of a mockup with the same startactivity but with a ranking table and two more buttons; “Invite a friend” and “Share”. 
 
