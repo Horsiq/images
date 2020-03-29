@@ -9,6 +9,7 @@ An application designed to encourage and keep track of individual action on clim
 - [3. Conclusions](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#3-conclusions)
 - [4. Product Presentation](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#4-product-presentation)
 - [4.1. Updates](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#41-updates)
+- [5. Bibliography]()
 
 ## The Conditions of the Application Task
 
@@ -104,7 +105,7 @@ In other words, the app will become more inclusive, social and widespread. Below
 |--------|
 |<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY%20MOCKUP.jpg">|
 
-## 5. Sources
+## 5. Bibliography
 
 
 
