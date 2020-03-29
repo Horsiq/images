@@ -91,6 +91,14 @@ A notification is set to be sent every 24th hour. In other words, the user will 
 
 ### 4.1 Updates
 
+To encourage more engagement, encouragement and competitiveness, updates of the app will include a top score table with your “friends”. Below are further updates that might be included in the new version of the app: 
+
+- A chat forum 
+- The ability to send challenges on daily ACTs to friends
+- To share results on social media, email, SMS etc. 
+
+In other words, the app will become more inclusive, social and widespread. Below is a screenshot of a mockup with the same startactivity but with a ranking table and two more buttons; “Invite a friend” and “Share”. 
+
 | Mockup |
 |--------|
 |<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY%20MOCKUP.jpg">|
