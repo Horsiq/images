@@ -95,9 +95,11 @@ A notification is set to be sent every 24th hour. In other words, the user will 
 
 To encourage more engagement, encouragement and competitiveness, updates of the app will include a top score table with your “friends”. Below are further updates that might be included in the new version of the app: 
 
+- Publication on Google Play
 - A chat forum 
 - The ability to send challenges on daily ACTs to friends
 - To share results on social media, email, SMS etc. 
+- All revenue collected from advertisement will go to [__Sustainable Development Goals Fund__](https://www.sdgfund.org/)
 
 In other words, the app will become more inclusive, social and widespread. Below is a screenshot of a mockup with the same startactivity but with a ranking table and two more buttons; “Invite a friend” and “Share”. 
 
@@ -114,6 +116,10 @@ Rosling, Hans, et al. _Factfulness: Ten Reasons Were Wrong about the World - and
 “ActNow Climate Action Campaign.” _United Nations_, United Nations, www.un.org/en/actnow/.
 
 “United Nations Sustainable Development.” _United Nations_, United Nations, www.un.org/sustainabledevelopment/.
+
+“Sustainable Development Goals Fund.” _Sustainable Development Goals Fund_, www.sdgfund.org/.
+
+
 
 
 
