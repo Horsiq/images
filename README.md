@@ -5,7 +5,7 @@ An application designed to encourage and keep track of individual action on clim
 ## Table of Contents:
 - [The Conditions of the Application Task](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#the-conditions-of-the-application-task)
 - [1. Cirkle of Influence](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#1-circle-of-influence)
-- [2. Factfulness _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Roslin](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#2-factfulness-ten-reasons-why-we-are-wrong-about-the-world---and-why-things-are-better-than-you-think-by-hans-rosling)
+- [2. Factfulness  _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Roslin](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#2-factfulness-ten-reasons-why-we-are-wrong-about-the-world---and-why-things-are-better-than-you-think-by-hans-rosling)
 - [3. Conclusions](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#3-conclusions)
 - [4. Product Presentation](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#4-product-presentation)
 
@@ -91,7 +91,7 @@ A notification is set to be sent every 24th hour. In other words, the user will 
 
 | Mockup |
 |--------|
-|<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY%20MOCKUP.jpg"|
+|<img width="190" height="400" src="https://github.com/Horsiq/applicationtaskHI/blob/master/Screenshot_ACTDAILY%20MOCKUP.jpg">|
 
 
 
