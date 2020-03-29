@@ -8,6 +8,7 @@ An application designed to encourage and keep track of individual action on clim
 - [2. Factfulness  _Ten Reasons Why We are Wrong about the World - And Why Things are Better than You Think_ by Hans Roslin](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#2-factfulness-ten-reasons-why-we-are-wrong-about-the-world---and-why-things-are-better-than-you-think-by-hans-rosling)
 - [3. Conclusions](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#3-conclusions)
 - [4. Product Presentation](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#4-product-presentation)
+--* [4.1. Updates](https://github.com/Horsiq/applicationtaskHI/blob/master/README.md#41-updates)
 
 ## The Conditions of the Application Task
 
